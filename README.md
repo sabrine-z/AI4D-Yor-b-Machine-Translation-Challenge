@@ -1,0 +1,2 @@
+# AI4D-Yor-b-Machine-Translation-Challenge
+Cette compétition est l’un des cinq défis du PNL que nous accueillerons sur Zindi dans le cadre du projet PNL en langue africaine en cours de l’AI4D, et il s’inscrit dans la continuité des défis de l’ensemble de données sur la langue africaine que nous avons accueillis plus tôt cette année. Le but de ce défi est de construire un modèle de traduction automatique pour traduire des phrases de la langue Yorùbá à la langue anglaise dans plusieurs domaines.
